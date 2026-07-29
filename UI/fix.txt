@@ -1,0 +1,5 @@
+1. Make The Handedness Somehow work so that location audio is not just arbitrary (ie. outside to whom?)
+2. Think About How to Organize the project to be mlb deployable
+  a. Batch File 2 Instantiate the whole server+unity game
+3. When I get Xreal, to enable 6DoF Delete Main Camera and grab xr rig from in xreal plugins folder for spatial tracking
+4. https://universe.roboflow.com/baseball-r7dzp/detect-baseballs -> Bag Model Trainer for the Arduino Cam Detection
